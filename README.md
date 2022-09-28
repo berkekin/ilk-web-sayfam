@@ -11,9 +11,10 @@ www.patika.dev kursuma ait ödevim
         <p> Bmw</p> 
 
     <h2> En sevdiğim diziler</h2>
-    <p> Arka sokaklar dizisi</p> 
+    <p> Arka sokaklar dizisi,kurtlar vadisi pusu</p> 
 <!-- resim kodu  -->
     <img src="arkasokaklar.jpg" alt="Arka sokaklar"/>
     </head>
 </html>
+
 
