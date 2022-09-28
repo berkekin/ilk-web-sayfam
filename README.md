@@ -1,5 +1,5 @@
 # ilk-web-sayfam
-
+www.patika.dev
 <html>
     <head>
         <h1> Berk EKİN </h1>
