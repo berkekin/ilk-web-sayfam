@@ -9,5 +9,9 @@ www.patika.dev kursuma ait ödevim
         
         <h2> En sevdiğim araba markası</h2>
         <p> Bmw</p> 
+
+    <h2> En sevdiğim diziler</h2>
+    <p> Arka sokaklar dizisi</p> 
+
     </head>
 </html>
