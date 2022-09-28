@@ -3,7 +3,7 @@ www.patika.dev kursuma ait ödevim
 <html>
     <head>
         <h1> Berk EKİN </h1>
-        <h3>Hakkımda</h3>
+        <h2>Hakkımda</h2>
         <p> Merhaba ben Berk EKİN Elektronik Ve yazılım ilgi alanımdır kickboks ile profesyonel olarak uğraşıyorum
         </p>
         
@@ -16,5 +16,4 @@ www.patika.dev kursuma ait ödevim
     <img src="arkasokaklar.jpg" alt="Arka sokaklar"/>
     </head>
 </html>
-
 
