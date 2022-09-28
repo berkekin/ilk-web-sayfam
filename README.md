@@ -13,5 +13,6 @@ www.patika.dev kursuma ait ödevim
     <h2> En sevdiğim diziler</h2>
     <p> Arka sokaklar dizisi</p> 
 
+    <img src="arkasokaklar.jpg" alt="Arka sokaklar"/>
     </head>
 </html>
