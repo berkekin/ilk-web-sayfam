@@ -1,5 +1,5 @@
 # ilk-web-sayfam
-www.patika.dev
+www.patika.dev kursuma ait ödevim
 <html>
     <head>
         <h1> Berk EKİN </h1>
